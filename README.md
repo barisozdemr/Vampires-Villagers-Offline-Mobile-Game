@@ -1,4 +1,11 @@
-This repository contains all the files needed to run this game yourself.
-The project is written in React Native.
-After setting up your React Native environment, installing the dependencies, and properly configuring the screens, Android API, and required modules, the app will work.
-You can then build the APK for your phone and enjoy the game with your friends.
+This repository contains everything you need to run the game.
+
+Instructions:
+
+1. Set up your React Native environment.
+
+2. Install the dependencies.
+
+3. Configure screens, Android API, and required modules.
+
+Once done, you can build the APK and enjoy the game with your friends.
