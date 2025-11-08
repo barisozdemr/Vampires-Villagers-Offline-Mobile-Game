@@ -1,3 +1,5 @@
+The game language is Turkish(TR).
+
 This repository contains everything you need to run the game.
 
 Instructions:
